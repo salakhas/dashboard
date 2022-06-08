@@ -1,0 +1,45 @@
+{
+    "students":[
+        {
+            "id":1,
+            "name":"Minda",
+            "term":2001,
+            "rollNumber":"7",
+            "currentYear":2021,
+            "contactNumber":"860-184-6306"
+        },
+        {   
+            "id":2,
+            "name":"Eugene",
+            "term":1988,
+            "rollNumber":"6144",
+            "currentYear":2020,
+            "contactNumber":"425-846-7359"
+        },
+        {
+            "id":3,
+            "name":"Mort",
+            "term":2011,
+            "rollNumber":"4",
+            "currentYear":2022,
+            "contactNumber":"221-859-9053"
+        },
+        {"id":4,"name":"Isacco","term":1995,"rollNumber":"79901","currentYear":2021,"contactNumber":"858-259-2239"},
+{"id":5,"name":"Cindy","term":2003,"rollNumber":"7","currentYear":2022,"contactNumber":"637-790-0682"},
+{"id":6,"name":"Normy","term":2006,"rollNumber":"39594","currentYear":2021,"contactNumber":"183-759-6890"},
+{"id":7,"name":"Zabrina","term":2000,"rollNumber":"781","currentYear":2020,"contactNumber":"114-853-5058"},
+{"id":8,"name":"Gottfried","term":1992,"rollNumber":"7990","currentYear":2022,"contactNumber":"425-223-5245"},
+{"id":9,"name":"Cybil","term":1961,"rollNumber":"9066","currentYear":2022,"contactNumber":"781-265-7540"},
+{"id":10,"name":"Beckie","term":1998,"rollNumber":"6","currentYear":2021,"contactNumber":"765-924-3178"},
+{"id":11,"name":"Fax","term":1998,"rollNumber":"5201","currentYear":2020,"contactNumber":"469-222-7253"},
+{"id":12,"name":"Herschel","term":2006,"rollNumber":"11","currentYear":2022,"contactNumber":"119-686-0127"},
+{"id":13,"name":"Townie","term":2010,"rollNumber":"3","currentYear":2021,"contactNumber":"891-122-9097"},
+{"id":14,"name":"Gratia","term":1999,"rollNumber":"429","currentYear":2020,"contactNumber":"924-971-6085"},
+{"id":15,"name":"Anita","term":1995,"rollNumber":"6","currentYear":2022,"contactNumber":"222-841-9769"},
+{"id":16,"name":"Erastus","term":2013,"rollNumber":"96","currentYear":2020,"contactNumber":"305-988-1324"},
+{"id":17,"name":"Montgomery","term":1989,"rollNumber":"13573","currentYear":2021,"contactNumber":"321-896-4976"},
+{"id":18,"name":"Auberta","term":1993,"rollNumber":"8067","currentYear":2021,"contactNumber":"821-708-3308"},
+{"id":19,"name":"Pattie","term":1996,"rollNumber":"825","currentYear":2020,"contactNumber":"314-530-1764"},
+{"id":20,"name":"Melba","term":1993,"rollNumber":"05850","currentYear":2022,"contactNumber":"905-230-7344"}
+    ]
+}
