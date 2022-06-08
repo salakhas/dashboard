@@ -8,6 +8,7 @@ import SchoolIcon from '@mui/icons-material/School';
 import EventSeatIcon from '@mui/icons-material/EventSeat';
 import PieChartIcon from '@mui/icons-material/PieChart';
 import MenuBookIcon from '@mui/icons-material/MenuBook';
+import { Link } from 'react-router-dom';
 
 export const Navbar = () => {
     
@@ -19,9 +20,9 @@ export const Navbar = () => {
             </div>
             <div style={{marginLeft:"20%"}}>
                 <Tabs aria-label="icon label tabs example">
-                    <Tab icon={<SchoolIcon />} style={{color:"white"}} label="Classes" />
-                    <Tab icon={<EventSeatIcon />} style={{color:"white"}} label="Events" />
-                    <Tab icon={<PieChartIcon />} style={{color:"white"}} label="Pie Chart" />
+                    <Link to="/" style={{textDecoration:"none"}}><Tab icon={<SchoolIcon />} style={{color:"white"}} label="Classes" /></Link>
+                    <Link to="/events" style={{textDecoration:"none"}}><Tab icon={<EventSeatIcon />} style={{color:"white"}} label="Events" /></Link>
+                    <Link to="/pieChart" style={{textDecoration:"none"}}><Tab icon={<PieChartIcon />} style={{color:"white"}} label="Pie Chart" /></Link>
                 </Tabs>
             </div>
         </div>
