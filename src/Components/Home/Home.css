@@ -1,0 +1,23 @@
+.filters{
+    display:flex;
+    width: 80%;
+    padding:10;
+    margin:auto;
+    gap:2%;
+}
+.tableWidth{
+    width: 90%;
+    margin: auto;
+}
+
+@media screen and (max-width: 600px){
+    .filters{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .tableWidth{
+        width: 100%;
+        margin: auto;
+    }
+}
